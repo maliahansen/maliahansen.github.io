@@ -1,0 +1,101 @@
+
+body {
+      background-color: #E8FFFF;
+    }
+
+    img {
+      align-content: center;
+    }
+
+    hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: gray;
+      border-width: 5px;
+      width: 5%;
+    }
+
+    h1 {
+      color: #0e918c;
+      font-family: system-ui;
+      text-align: center;
+    }
+
+    h3 {
+      color: #0e918c;
+      font-family: system-ui;
+      text-align: center;
+    }
+
+    p {
+      Color: #008891;
+      font-family: system-ui;
+      text-align: center;
+    }
+
+    span {
+      text-align: justify;
+      font-size: smaller;
+    }
+
+    ul {
+      color: #008891;
+      font-family: system-ui;
+      display: inline-block;
+      text-align: left;
+      margin: 0;
+    }
+
+    ol {
+      color: #008891;
+      font-family: system-ui;
+      display: inline-block;
+      text-align: left;
+    }
+
+    table {
+      color: #008891;
+      font-family: system-ui;
+      display: inline-block;
+      align-content: center;
+      align-self: center
+    }
+
+    td {
+      text-align: left;
+      margin-bottom: 1%;
+      padding: 1%;
+    }
+
+    tr {
+      text-align: center;
+      margin-bottom: 1%;
+      padding: 1%;
+    }
+
+    li {
+      align-self: center;
+      margin-bottom: 1%;
+      padding: 1%;
+    }
+
+    form {
+      Color: #008891;
+      font-family: system-ui;
+      align-content: center;
+    }
+
+    input {
+      color: gray;
+    }
+
+    a {
+      color: #008891;
+      font-family: system-ui;
+    }
+
+    body {
+      text-align: center;
+      align-content: center;
+      align-self: center;
+    }
